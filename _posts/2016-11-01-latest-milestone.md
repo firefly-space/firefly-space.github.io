@@ -1,7 +1,7 @@
 ---
-title: We've raised $2000!
+title: We raised €50K
 author_staff_member: wooly-mcbaa
-date: 2016-11-01
-featured_image: https://unsplash.it/570/400?image=1080
+date: 2018-06-19
+featured_image: https://goo.gl/9BKHwp
 ---
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+A big thank you to the team at Portugal's European Space Agency (ESA) business incubator for accepting our project. The revolution has begun!
